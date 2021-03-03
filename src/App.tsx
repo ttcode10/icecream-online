@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
+import OrderSummaryPage from './pages/OrderSummary/OrderSummaryPage';
 
 function App() {
-  return <h1>ice-cream</h1>;
+  return <OrderSummaryPage />;
 }
 
 export default App;
